@@ -2,13 +2,20 @@
 
 Maintained by the fact-finder and lead advisor. Real figures are fine. Never add passwords, logins, full account or card numbers, or the NI number.
 
-Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
+Last updated: 2026-10-13 (first fact-find complete)
 
 ## Basics
 - Location: Orkney, Scotland — Scottish taxpayer; Scots law
 - Age: 33 (as of 2026-10-13)
 - Household: partner of 10 years, **not married or in a civil partnership**. Planning children from now on. Currently living with own parents while renovating a newly bought house. No dependants yet
 - Health: UNKNOWN (only record if relevant to insurance or retirement)
+
+## Partner (she)
+- Self-employed hairdresser, ~£30,000/year
+- Pension: SIPP only, £100/month contribution
+- Emergency fund similar to owner's; no debt
+- Plans to go part-time after a baby
+- Self-employed, so no employer sick pay, death-in-service or employer pension
 
 ## Income
 - Employment: NHS, full time, since 2016, no breaks (~10 years' service in 2026)

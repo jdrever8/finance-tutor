@@ -2,6 +2,12 @@
 
 Newest first. Maintained by the progress-tracker.
 
+## 2026-10-13 — Session 1c: fact-find
+**Mode:** Advise (fact-finder). 10 questions to fill in `my-situation.md`.
+**Picture:** age 33, NHS since 2016 (2015 scheme), ~£40k; aiming to retire or cut down at 50–55. ISA ~£32k mostly in a money market fund, +£650/month, weekly SGLN; SIPP ~£1k in SILJ; emergency fund ~£4k. Joint mortgage ~£134k at 4.31%, fixed to ~April 2031, on an inherited house being renovated; ~£65k renovation fund at ~1.5%; move-in first half of 2027. Unmarried partner of 10 years (self-employed, ~£30k, SIPP); planning children. No wills. Death-only life cover each (amounts unknown).
+**Top priorities found:** (1) wills and the house title survivorship clause; (2) move the £65k to a better rate; (3) check life cover, and income protection for the partner; (4) ISA allocation (mostly cash-like for a 17–22 year horizon); (5) retire-at-50–55 plan.
+**Resume:** owner checking the life policy documents. Next: pick a priority to advise on, or Learn topic 1.
+
 ## 2026-10-13 — Session 1b: setup (no teaching)
 **Mode:** setup. Turned the tutor into a personal advisor: Advise / Review / Learn modes, specialist agents (fact-finder, tax, pensions, investments, home-and-protection, life-admin, second-opinion), plus `my-situation.md`, `decisions-log.md`, `action-list.md` and `advice/`. Moved files to the repo root and installed agents in `.claude/agents/`.
 **Resume:** fill in `my-situation.md` with the fact-finder, or start Learn topic 1 (Scottish income tax, NI and payslips).

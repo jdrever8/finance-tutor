@@ -19,6 +19,9 @@ Maintained by the lead advisor and progress-tracker. Tick off when done; move do
 - [ ] Check both life policies: amount, term, single or joint, in trust? Compare with the £134k mortgage and future children
 - [ ] Before a baby: review income protection, life cover amount, NHS maternity/paternity/shared leave pay, and the budget
 
+- [ ] Partner: consider income protection (self-employed, no sick pay) and check her maternity entitlement as self-employed (Maternity Allowance — verify)
+- [ ] Advise: retire-at-50–55 plan (bridging to NHS and State Pension ages; ISA vs NHS Added Pension / buying out the early retirement reduction)
+
 ## Yearly money calendar
 Dates below are fixed rules; check figures each year.
 - **Before 5 April** (tax year end): use ISA allowance if planned, review pension contributions, use CGT annual exempt amount if relevant
