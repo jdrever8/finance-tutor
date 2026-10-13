@@ -19,8 +19,9 @@ Maintained by the lead advisor and progress-tracker. Tick off when done; move do
 - [ ] Before a baby: review income protection, life cover amount, NHS maternity/paternity/shared leave pay, and the budget
 
 - [ ] Partner: consider income protection (self-employed, no sick pay) and check her maternity entitlement as self-employed (Maternity Allowance — verify)
-- [ ] ISA plan (see advice/2026-10-isa-and-early-retirement.md): decide buffer (£10–15k), tell advisor the platform, then phase the rest into a global tracker over ~6 months and redirect £650/month
-- [ ] Change the SGLN buy from 1 share/week to a fixed ~£30–50/month
+- [ ] ISA plan (see advice/2026-10-isa-and-early-retirement.md): keep ~£5k MMF; move ~£27k into FWRA (GBP line) in ~6 monthly chunks; one FWRA buy a month with the £650
+- [ ] Check the IBKR ISA fee page: per-trade commission, monthly minimum, FX — confirm the ~£3 figures
+- [ ] Stop the weekly SGLN buy (fees ~5% per trade on IBKR); top up gold 1–2× a year, only if under the 5–10% cap
 - [ ] Write the crash rule into decisions-log.md
 - [ ] Get Total Reward Statement from SPPA (pensions.gov.scot) and update my-situation.md
 - [ ] Ask SIPP provider whether it has a protected pension age of 55

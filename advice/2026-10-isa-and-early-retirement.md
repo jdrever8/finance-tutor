@@ -40,3 +40,10 @@ Wills before the baby (unmarried in Scotland). Check the house title. Partner: t
 CONFIRMED (second-hand, WebFetch unavailable): SPA 68; protected age 55; partial retirement core rules; State Pension rate; fund OCFs; SGLN TER.
 UNVERIFIED: Scottish early retirement factors; whether the 2026/27 Scottish bands were passed as proposed; current SGLN price; Additional Pension cap/cost in Scotland; deferred members taking reduced benefits from 55.
 Several sources used (Which?, Age UK, Fidelity, TrackInsight, justETF) are not in `sources.md` yet — the owner's approval is needed.
+
+## Update 2026-10-13 — platform is IBKR, budget confident
+- Buffer reduced: keep ~£5k in the money market fund until move-in (baby and emergency top-up); invest ~£27k in ~6 monthly chunks.
+- Use an ETF, as the HSBC fund is unlikely to be available on IBKR: **Invesco FTSE All-World Acc (FWRA)**, buying the GBP-quoted London line to avoid FX charges. Alternative: Vanguard FTSE All-World Acc (VWRP).
+- IBKR UK ISA costs (UNVERIFIED, from third-party reviews): ~£3 per UK ETF trade up to £6k; ~£3/month minimum activity fee that commissions count towards. **Fractional shares are not available in IBKR ISAs** (IBKR's own page), so buy whole shares.
+- So: **one buy a month** (FWRA with the £650; the leftover cash rolls over). **Stop the weekly SGLN buy**: £3 on a ~£63 share is ~5% per purchase, ~£150/yr in fees. Top up gold once or twice a year instead, if it's below the cap.
+- Why a world tracker as the core: see the chat answer of 2026-10-13. Optional satellite (≤10–20%) for any stock-picking interest.

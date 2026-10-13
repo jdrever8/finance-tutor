@@ -33,7 +33,7 @@ Last updated: 2026-10-13 (first fact-find complete)
 
 ## Savings and investments
 - Emergency fund: ~£4,000, about 6 months of current stated spending (where held: UNKNOWN)
-- Stocks & Shares ISA: ~£32,000, mostly in a money market fund yielding ~4.5% (platform: UNKNOWN). Adds £650/month
+- Stocks & Shares ISA: ~£32,000, mostly in a money market fund yielding ~4.5% with **Interactive Brokers (IBKR UK)**. Adds £650/month
 - Regular investing: buys 1 share of SGLN (iShares Physical Gold ETC) every Wednesday (inside the ISA)
 - General investment account: UNKNOWN
 - Other (Premium Bonds, LISA, crypto, shares): UNKNOWN
@@ -43,7 +43,7 @@ Last updated: 2026-10-13 (first fact-find complete)
 - Value: ~£130,000 now (lender's estimate, before renovation). Value after renovation: UNKNOWN
 - Mortgage: ~£134,000, started April 2026, **5-year fix at 4.31% until ~April 2031**, £673/month. Payment implies a ~29–30 year term (estimate; actual term UNKNOWN). Joint names with partner. Owner knows the overpayment allowance (exact limit to note)
 - Loan-to-value now is about 100% on the pre-renovation estimate; should fall as the renovation adds value
-- Renovation fund: ~£65,000 in a joint account earning ~1.5%, separate from the ISA. Target move-in: first half of 2027
+- Renovation fund: ~£65,000 in a joint account earning ~1.5%, separate from the ISA. Target move-in: first half of 2027. Owner is confident in the renovation budget
 - Other debts: UNKNOWN
 
 ## Protection
