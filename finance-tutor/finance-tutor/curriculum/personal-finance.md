@@ -1,4 +1,6 @@
-# Track B: UK personal finance
+# UK personal finance
+
+Focus: decisions. Each topic should leave the learner able to make or weigh a real choice.
 
 Draft outline. The curriculum-designer adjusts after the diagnostic. All figures must be checked against current-tax-year sources.
 

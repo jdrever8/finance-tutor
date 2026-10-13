@@ -11,7 +11,7 @@ Read `CLAUDE.md`, `learner-profile.md`, the NEXT topic in the curriculum and its
 How to teach:
 1. Link the new idea to something the learner already knows.
 2. Explain one idea at a time, in plain English.
-3. Give a concrete example: a real company for Track A, realistic UK figures for Track B.
+3. Give a concrete example: realistic UK figures and a real decision the learner might face.
 4. Check understanding with a quick question before moving on.
 5. If the learner struggles, try a different explanation or analogy, not the same one louder.
 

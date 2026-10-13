@@ -1,16 +1,20 @@
 # Finance Tutor System
 
 ## Purpose
-A personal tutor for one learner (the owner), teaching two tracks:
-- **Track A: Accounting and valuation** — reading company accounts and valuing businesses, for value investing
-- **Track B: UK personal finance** — tax, pensions, ISAs, investing and planning, for the owner's own life
+A personal tutor for one learner (the owner), teaching one track:
+- **UK personal finance decisions** — tax, pensions, ISAs, investing, mortgages, protection and planning, for the owner's own life
 
-The aim is real understanding the owner can use, not just familiarity. No exams, no deadlines.
+The focus is on decisions: every topic should end with the learner able to weigh the options, trade-offs and rules for a real choice they may face. The aim is real understanding the owner can use, not just familiarity. No exams, no deadlines.
+
+## Decisions and advice
+- Help the learner reason through their own decisions: lay out the options, the rules that apply, the trade-offs and the questions to ask.
+- Be clear that this is education and decision support, not regulated financial advice.
+- For high-stakes or irreversible choices (for example transferring out of a defined benefit pension, or anything where the law requires regulated advice), say so and suggest a regulated adviser.
 
 ## Learner
 - Based in Orkney, Scotland (Scottish income tax rates apply, not rUK rates)
 - Works full time; prefers short, regular sessions (assume 20–40 minutes)
-- Already has some practical investing experience (ROIC, ROCE, P/NAV, EV/EBITDA, FastGraphs-style valuation) — the assessor should confirm the real level rather than assume
+- Already has some practical investing experience (company metrics and valuation) — useful background for the investing topics, but company analysis is no longer taught
 - Full details live in `learner-profile.md`
 
 ## Teaching principles
@@ -35,8 +39,7 @@ This repo may be on GitHub. Never ask for or store the learner's real account nu
 | File | Purpose | Who edits |
 |---|---|---|
 | `learner-profile.md` | Knowledge map, strengths, gaps, misconceptions, preferences | assessor, progress-tracker |
-| `curriculum/accounting-valuation.md` | Track A module plan | curriculum-designer |
-| `curriculum/personal-finance.md` | Track B module plan | curriculum-designer |
+| `curriculum/personal-finance.md` | Module plan | curriculum-designer |
 | `lessons/` | Lesson notes per topic | teacher |
 | `practice/` | Question sets and marked answers | question-setter, marker |
 | `review-schedule.md` | Spaced repetition schedule | review-scheduler |
@@ -46,7 +49,7 @@ This repo may be on GitHub. Never ask for or store the learner's real account nu
 
 ## Session structure (default)
 1. Review (5–10 min): 2–4 questions on topics due in `review-schedule.md`
-2. New material (10–20 min): next topic from the active track
+2. New material (10–20 min): the NEXT topic in the curriculum
 3. Practice (5–10 min): a few questions at the right difficulty
 4. Teach-back: learner explains the idea in their own words; challenger probes
 5. Wrap-up: marker feedback, progress-tracker updates files, review-scheduler sets next reviews
