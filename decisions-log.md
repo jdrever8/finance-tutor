@@ -16,4 +16,13 @@ Template:
 - Review by:
 ```
 
-(no decisions yet)
+## 2026-10-13 — Invest the ISA; taper to retire 50–55
+- Question: how to invest the ~£32k ISA (mostly money market fund) and fit it to a plan to taper from ~50 and largely stop ~55
+- Situation used: my-situation.md (2026-10-13)
+- Options considered: stay in MMF; invest a lump sum now; phase in; keep a buffer until move-in; SIPP vs ISA; NHS ERRBO / Additional Pension
+- Recommendation and why: keep £10–15k MMF buffer until move-in; phase the rest into a global all-world tracker over ~6 months; £650/month into the tracker; gold as fixed ~£30–50/month, capped at 5–10%; written crash rule; NHS taper + partial retirement from 55, full pension ~57–60; ISA as the bridge. Full note: advice/2026-10-isa-and-early-retirement.md
+- Figures and tax year: 2026/27; partly CHECKED (see the note)
+- Second opinion: AGREE WITH CHANGES (changes adopted: buffer, phasing, crash rule, household items, SIPP kept as an option)
+- Owner's decision: PENDING (buffer amount, platform)
+- Review by: after move-in (mid-2027)
+

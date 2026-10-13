@@ -12,7 +12,6 @@ Maintained by the lead advisor and progress-tracker. Tick off when done; move do
 - [ ] Check the SIPP nomination (expression of wish) names partner
 - [ ] Fact-checker: verify Cash ISA limit change (figure, start date), current Scottish bands, lump sum allowance
 
-- [ ] Advise: ISA is ~£32k mostly in a money market fund with a 17–22 year horizon — review allocation once the situation file is complete
 
 - [ ] QUICK WIN: move the £65k renovation fund from ~1.5% to a better easy-access or notice account (or similar); check the interest tax position (savings allowance; joint interest is split 50/50) — fact-checker to verify current rates and allowance
 
@@ -20,7 +19,13 @@ Maintained by the lead advisor and progress-tracker. Tick off when done; move do
 - [ ] Before a baby: review income protection, life cover amount, NHS maternity/paternity/shared leave pay, and the budget
 
 - [ ] Partner: consider income protection (self-employed, no sick pay) and check her maternity entitlement as self-employed (Maternity Allowance — verify)
-- [ ] Advise: retire-at-50–55 plan (bridging to NHS and State Pension ages; ISA vs NHS Added Pension / buying out the early retirement reduction)
+- [ ] ISA plan (see advice/2026-10-isa-and-early-retirement.md): decide buffer (£10–15k), tell advisor the platform, then phase the rest into a global tracker over ~6 months and redirect £650/month
+- [ ] Change the SGLN buy from 1 share/week to a fixed ~£30–50/month
+- [ ] Write the crash rule into decisions-log.md
+- [ ] Get Total Reward Statement from SPPA (pensions.gov.scot) and update my-situation.md
+- [ ] Ask SIPP provider whether it has a protected pension age of 55
+- [ ] Confirm the retirement spending target (£25k assumed; test £30k)
+- [ ] Partner: claim Child Benefit in her name after the birth (NI credits while part-time); check NHS partner's pension conditions for cohabitants
 
 ## Yearly money calendar
 Dates below are fixed rules; check figures each year.

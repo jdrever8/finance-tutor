@@ -24,7 +24,7 @@ Last updated: 2026-10-13 (first fact-find complete)
 - Other income: UNKNOWN
 
 ## Pensions
-- NHS Pension Scheme: 2015 scheme only (joined 2016, after 1995/2008 sections closed to new joiners)
+- **NHS Pension Scheme (Scotland)**, run by SPPA (pensions.gov.scot): 2015 scheme only (joined 2016). NPA = SPA = 68. Protected minimum pension age 55 (joined before Nov 2021)
 - Rough accrual: ~£740/yr of pension per year at £40k (1/54th), before revaluation — estimate only
 - Latest Total Reward Statement figure: UNKNOWN
 - Other pension: small pot ~£1,000 invested in SILJ (junior silver miners ETF) — deliberate long-term high-risk holding (held in a SIPP)
@@ -60,7 +60,7 @@ Last updated: 2026-10-13 (first fact-find complete)
 
 ## Goals (in the owner's words where possible)
 - Understand and make own decisions on tax, pensions, ISAs and investing
-- Retire or cut down at **50–55** (ideal). Most likely by **tapering** hours down rather than stopping outright. That's 17–22 years away, and well before NHS Normal Pension Age / State Pension Age
+- Retire or cut down at **50–55** (ideal). Spending target in retirement: ASSUMED £25k/yr (to confirm). Most likely by **tapering** hours down rather than stopping outright. That's 17–22 years away, and well before NHS Normal Pension Age / State Pension Age
 - Finish the renovation and move in (first half of 2027)
 - Children: planning from now on, which affects insurance, leave pay, childcare costs and the retirement timeline
 - Other goals: UNKNOWN

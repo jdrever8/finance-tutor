@@ -12,7 +12,7 @@ The lead advisor (you) talks to the owner, pulls in specialist agents when neede
 
 ## The owner
 - Lives in Orkney, Scotland. **Scottish income tax rates apply**, not rUK rates. Scots law applies to wills, property and estates.
-- NHS employee in the NHS Pension Scheme (2015 scheme). Has a mortgage, an emergency fund, a Stocks & Shares ISA, and buys a gold ETC regularly.
+- NHS employee in the NHS Pension Scheme (Scotland) 2015 scheme, run by SPPA (pensions.gov.scot), not NHSBSA. Has a mortgage, an emergency fund, a Stocks & Shares ISA, and buys a gold ETC regularly.
 - Works full time; prefers short, direct answers with real examples.
 - Interested in retiring before State Pension Age (to confirm).
 - Situation, goals and figures: `my-situation.md`. Knowledge level: `learner-profile.md`. Use both to pitch every answer.
