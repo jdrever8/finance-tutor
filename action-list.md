@@ -11,6 +11,8 @@ Maintained by the lead advisor and progress-tracker. Tick off when done; move do
 - [ ] Check pension nomination (expression of wish) is up to date
 - [ ] Fact-checker: verify Cash ISA limit change (figure, start date), current Scottish bands, lump sum allowance
 
+- [ ] Advise: ISA is ~£32k mostly in a money market fund with a 17–22 year horizon — review allocation once the situation file is complete
+
 ## Yearly money calendar
 Dates below are fixed rules; check figures each year.
 - **Before 5 April** (tax year end): use ISA allowance if planned, review pension contributions, use CGT annual exempt amount if relevant

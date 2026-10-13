@@ -20,13 +20,13 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 - NHS Pension Scheme: 2015 scheme only (joined 2016, after 1995/2008 sections closed to new joiners)
 - Rough accrual: ~£740/yr of pension per year at £40k (1/54th), before revaluation — estimate only
 - Latest Total Reward Statement figure: UNKNOWN
-- Other pensions (old workplace pots, SIPP): UNKNOWN
+- Other pension: small pot ~£1,000 invested in SILJ (junior silver miners ETF) — deliberate long-term high-risk holding (pot type, e.g. SIPP: UNKNOWN)
 - State Pension forecast: NOT CHECKED (action)
 - Expression of wish / nomination up to date: UNKNOWN
 
 ## Savings and investments
-- Emergency fund: in place (size in months of spending: UNKNOWN)
-- Stocks & Shares ISA: yes (value: UNKNOWN; platform: UNKNOWN)
+- Emergency fund: ~£4,000 (months of spending: UNKNOWN; where held: UNKNOWN)
+- Stocks & Shares ISA: ~£32,000, mostly in a money market fund yielding ~4.5% (platform: UNKNOWN; monthly contribution: UNKNOWN)
 - Regular investing: buys a gold ETC weekly
 - General investment account: UNKNOWN
 - Other (Premium Bonds, LISA, crypto, shares): UNKNOWN
