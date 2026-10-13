@@ -25,14 +25,14 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 - Expression of wish / nomination up to date: UNKNOWN
 
 ## Savings and investments
-- Emergency fund: ~£4,000 (months of spending: UNKNOWN; where held: UNKNOWN)
-- Stocks & Shares ISA: ~£32,000, mostly in a money market fund yielding ~4.5% (platform: UNKNOWN; monthly contribution: UNKNOWN)
-- Regular investing: buys a gold ETC weekly
+- Emergency fund: ~£4,000, about 6 months of current stated spending (where held: UNKNOWN)
+- Stocks & Shares ISA: ~£32,000, mostly in a money market fund yielding ~4.5% (platform: UNKNOWN). Adds £650/month
+- Regular investing: buys 1 share of SGLN (iShares Physical Gold ETC) every Wednesday (inside/outside ISA: UNKNOWN)
 - General investment account: UNKNOWN
 - Other (Premium Bonds, LISA, crypto, shares): UNKNOWN
 
 ## Home and debt
-- Mortgage: yes. Rough balance, rate, fixed until, term left: UNKNOWN
+- Mortgage: £650/month. Balance, rate, fixed until, term left: UNKNOWN
 - Other debts: UNKNOWN
 
 ## Protection
@@ -40,6 +40,10 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 - Income protection / life / critical illness cover: UNKNOWN
 - Will (Scottish): UNKNOWN
 - Power of attorney: UNKNOWN
+
+## Spending
+- Owner says the mortgage (£650/month) is currently their only expense. To confirm whether food, bills and council tax are shared or paid by someone else
+- Rest of take-home after mortgage, ISA and gold: where it goes is UNKNOWN
 
 ## Goals (in the owner's words where possible)
 - Understand and make own decisions on tax, pensions, ISAs and investing
