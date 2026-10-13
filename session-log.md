@@ -2,6 +2,10 @@
 
 Newest first. Maintained by the progress-tracker.
 
+## 2026-10-13 — Session 1b: setup (no teaching)
+**Mode:** setup. Turned the tutor into a personal advisor: Advise / Review / Learn modes, specialist agents (fact-finder, tax, pensions, investments, home-and-protection, life-admin, second-opinion), plus `my-situation.md`, `decisions-log.md`, `action-list.md` and `advice/`. Moved files to the repo root and installed agents in `.claude/agents/`.
+**Resume:** fill in `my-situation.md` with the fact-finder, or start Learn topic 1 (Scottish income tax, NI and payslips).
+
 ## 2026-10-13 — Session 1: diagnostic
 **Topics:** diagnostic across UK personal finance (15 questions). Accounting and valuation track removed at the owner's request at the start of the session.
 
