@@ -22,7 +22,7 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 - Latest Total Reward Statement figure: UNKNOWN
 - Other pension: small pot ~£1,000 invested in SILJ (junior silver miners ETF) — deliberate long-term high-risk holding (held in a SIPP)
 - State Pension forecast: NOT CHECKED (action)
-- Expression of wish / nomination up to date: UNKNOWN
+- NHS pension nomination: done (for partner)
 
 ## Savings and investments
 - Emergency fund: ~£4,000, about 6 months of current stated spending (where held: UNKNOWN)
@@ -41,8 +41,9 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 
 ## Protection
 - NHS sick pay and death-in-service: yes; 10 years' service, so likely at the top sick pay entitlement (verify)
-- Income protection / life / critical illness cover: UNKNOWN
-- Will (Scottish): UNKNOWN
+- Life insurance: owner and partner each have death-only cover (amount and term vs the mortgage: UNKNOWN)
+- Income protection / critical illness: none
+- Will (Scottish): **none yet**
 - Power of attorney: UNKNOWN
 
 ## Spending
