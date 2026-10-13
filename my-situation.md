@@ -6,7 +6,7 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 
 ## Basics
 - Location: Orkney, Scotland — Scottish taxpayer; Scots law
-- Age band: UNKNOWN
+- Age: 33 (as of 2026-10-13)
 - Household: UNKNOWN (partner? dependants?)
 - Health: UNKNOWN (only record if relevant to insurance or retirement)
 
@@ -42,7 +42,7 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 
 ## Goals (in the owner's words where possible)
 - Understand and make own decisions on tax, pensions, ISAs and investing
-- Possibly retire before State Pension Age — target age: UNKNOWN
+- Retire or cut down at **50–55** (ideal). That's 17–22 years away, and well before NHS Normal Pension Age / State Pension Age
 - Other goals (home, family, travel, giving): UNKNOWN
 
 ## Attitudes
