@@ -18,7 +18,7 @@ Last updated: 2026-10-13 (first fact-find complete)
 - Self-employed, so no employer sick pay, death-in-service or employer pension
 
 ## Income
-- Employment: NHS, full time, since 2016, no breaks (~10 years' service in 2026)
+- Employment: NHS, 36 hours/week (alternating 4-day and 4.5-day weeks), since 2016, no breaks (~10 years' service in 2026)
 - Salary: ~£40,000. Scottish tax band probably intermediate (21%) — UNVERIFIED, check current-year bands
 - Tax code: check it starts with S
 - Other income: UNKNOWN
@@ -60,7 +60,7 @@ Last updated: 2026-10-13 (first fact-find complete)
 
 ## Goals (in the owner's words where possible)
 - Understand and make own decisions on tax, pensions, ISAs and investing
-- Retire or cut down at **50–55** (ideal). That's 17–22 years away, and well before NHS Normal Pension Age / State Pension Age
+- Retire or cut down at **50–55** (ideal). Most likely by **tapering** hours down rather than stopping outright. That's 17–22 years away, and well before NHS Normal Pension Age / State Pension Age
 - Finish the renovation and move in (first half of 2027)
 - Children: planning from now on, which affects insurance, leave pay, childcare costs and the retirement timeline
 - Other goals: UNKNOWN
