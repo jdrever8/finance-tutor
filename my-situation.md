@@ -33,8 +33,8 @@ Last updated: 2026-10-13 (first fact-find complete)
 
 ## Savings and investments
 - Emergency fund: ~£4,000, about 6 months of current stated spending (where held: UNKNOWN)
-- Stocks & Shares ISA: ~£32,000, mostly in a money market fund yielding ~4.5% with **Interactive Brokers (IBKR UK)**. Adds £650/month
-- Regular investing: buys 1 share of SGLN (iShares Physical Gold ETC) every Wednesday (inside the ISA)
+- Stocks & Shares ISA: ~£32,000, mostly in a money market fund yielding ~4.5% with **Interactive Brokers (IBKR UK)**; £3 commission per UK ETF trade (confirmed by owner). Adds £650/month
+- Gold: 2 SGLN shares (~£125, ~0.4% of the ISA) as of 2026-10-13, bought weekly until now. Switching to the yearly 5–10% rule
 - General investment account: UNKNOWN
 - Other (Premium Bonds, LISA, crypto, shares): UNKNOWN
 

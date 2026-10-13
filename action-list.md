@@ -19,8 +19,8 @@ Maintained by the lead advisor and progress-tracker. Tick off when done; move do
 
 - [ ] Partner: consider income protection (self-employed, no sick pay) and check her maternity entitlement as self-employed (Maternity Allowance — verify)
 - [ ] ISA plan (see advice/2026-10-isa-and-early-retirement.md): keep ~£5k MMF; move ~£27k into FWRA (GBP line) in ~6 monthly chunks; one FWRA buy a month with the £650
-- [ ] Check the IBKR ISA fee page: per-trade commission, monthly minimum, FX — confirm the ~£3 figures
-- [ ] Stop the weekly SGLN buy (each trade ~£3 on IBKR, ~5% on one share). Once a year: if gold < 5% of the ISA, top up to 5% in one trade; if above 10%, stop buying
+- [ ] Check the IBKR ISA fee page: monthly minimum and FX (the £3/trade commission is confirmed by owner)
+- [ ] Cancel the recurring weekly SGLN order before tomorrow's buy. In the first month, buy ~£1,600 of SGLN in one trade to reach ~5% gold. Once a year: if gold < 5% of the ISA, top up to 5% in one trade; if above 10%, stop buying
 - [ ] Write the crash rule into decisions-log.md
 - [ ] Get Total Reward Statement from SPPA (pensions.gov.scot) and update my-situation.md
 - [ ] Ask SIPP provider whether it has a protected pension age of 55
