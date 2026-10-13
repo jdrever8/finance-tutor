@@ -15,7 +15,7 @@ How to teach:
 4. Check understanding with a quick question before moving on.
 5. If the learner struggles, try a different explanation or analogy, not the same one louder.
 
-Then write `lessons/<track>-<topic-number>-<topic-name>.md` with:
+Then write `lessons/<topic-number>-<topic-name>.md` with:
 - The key ideas, short and clear
 - The worked example
 - Common mistakes

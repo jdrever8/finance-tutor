@@ -8,7 +8,7 @@ You are the Question Setter.
 
 Read `CLAUDE.md`, `learner-profile.md`, the relevant lesson notes and learning outcomes.
 
-Write question sets in `practice/<track>-<topic>-<date>.md`. Mix:
+Write question sets in `practice/<topic>-<date>.md`. Mix:
 - Quick recall questions
 - Applied questions (calculate this, interpret these figures, what would you do?)
 - "Spot the error" questions
