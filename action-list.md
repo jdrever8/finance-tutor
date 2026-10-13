@@ -8,8 +8,12 @@ Maintained by the lead advisor and progress-tracker. Tick off when done; move do
 - [ ] Find out own Scottish income tax band (Learn topic 1)
 - [ ] Find latest NHS Pension Total Reward Statement and note the figures in `my-situation.md`
 - [ ] Remortgage review before the fix ends (~April 2031; start about 6 months before)
-- [ ] **HIGH PRIORITY: wills for both of you.** Unmarried cohabitants have few automatic inheritance rights in Scotland. Also check whether the house title has a survivorship destination (UNVERIFIED — check with a solicitor or the title deeds)
-- [ ] Check the SIPP nomination (expression of wish) names partner
+- [ ] **HIGH PRIORITY: wills for both** (see advice/2026-10-wills-and-estate.md). Book a Scottish solicitor or Will Aid (November)
+- [ ] Order the house title sheet from Registers of Scotland (ScotLIS, ~£3 + VAT): check shares and survivorship destination
+- [ ] Put both life policies in trust
+- [ ] Powers of attorney (continuing + welfare) for both
+- [ ] Optional: cohabitation agreement (inherited 75% share, £65k fund)
+- [ ] SIPP expressions of wish: owner names partner; partner names owner
 - [ ] Fact-checker: verify Cash ISA limit change (figure, start date), current Scottish bands, lump sum allowance
 
 

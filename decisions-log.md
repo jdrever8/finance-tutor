@@ -16,6 +16,14 @@ Template:
 - Review by:
 ```
 
+## 2026-10-13 — Wills and estate
+- Question: how to make sure the partner (unmarried) and future children inherit
+- Recommendation and why: mirror Scottish wills (everything to each other, then children); check the title for a survivorship destination; life policies in trust; SIPP expressions of wish; powers of attorney; optional cohabitation agreement. Unmarried partners get nothing automatically in Scotland. Full note: advice/2026-10-wills-and-estate.md
+- Figures and tax year: 2026/27; not yet CHECKED (official sites unreachable)
+- Second opinion: not needed (low-risk actions)
+- Owner's decision: wants wills — everything to the partner, then children
+- Review by: when the first child arrives
+
 ## 2026-10-13 — Invest the ISA; taper to retire 50–55
 - Question: how to invest the ~£32k ISA (mostly money market fund) and fit it to a plan to taper from ~50 and largely stop ~55
 - Situation used: my-situation.md (2026-10-13)
