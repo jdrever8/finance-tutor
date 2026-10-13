@@ -7,7 +7,7 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 ## Basics
 - Location: Orkney, Scotland — Scottish taxpayer; Scots law
 - Age: 33 (as of 2026-10-13)
-- Household: has a partner. Currently living with own parents while renovating a newly bought house. Dependants: UNKNOWN
+- Household: partner of 10 years, **not married or in a civil partnership**. Planning children from now on. Currently living with own parents while renovating a newly bought house. No dependants yet
 - Health: UNKNOWN (only record if relevant to insurance or retirement)
 
 ## Income
@@ -41,7 +41,7 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 
 ## Protection
 - NHS sick pay and death-in-service: yes; 10 years' service, so likely at the top sick pay entitlement (verify)
-- Life insurance: owner and partner each have death-only cover (amount and term vs the mortgage: UNKNOWN)
+- Life insurance: owner and partner each have death-only cover (amount and term vs the mortgage: owner checking the documents)
 - Income protection / critical illness: none
 - Will (Scottish): **none yet**
 - Power of attorney: UNKNOWN
@@ -54,7 +54,9 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 ## Goals (in the owner's words where possible)
 - Understand and make own decisions on tax, pensions, ISAs and investing
 - Retire or cut down at **50–55** (ideal). That's 17–22 years away, and well before NHS Normal Pension Age / State Pension Age
-- Other goals (home, family, travel, giving): UNKNOWN
+- Finish the renovation and move in (first half of 2027)
+- Children: planning from now on, which affects insurance, leave pay, childcare costs and the retirement timeline
+- Other goals: UNKNOWN
 
 ## Attitudes
 - Risk: would keep investing through a 30% fall and look for opportunities (diagnostic Q15)

@@ -8,13 +8,16 @@ Maintained by the lead advisor and progress-tracker. Tick off when done; move do
 - [ ] Find out own Scottish income tax band (Learn topic 1)
 - [ ] Find latest NHS Pension Total Reward Statement and note the figures in `my-situation.md`
 - [ ] Remortgage review before the fix ends (~April 2031; start about 6 months before)
-- [ ] Make wills (owner and partner), especially with a jointly owned house — priority depends on marital status
+- [ ] **HIGH PRIORITY: wills for both of you.** Unmarried cohabitants have few automatic inheritance rights in Scotland. Also check whether the house title has a survivorship destination (UNVERIFIED — check with a solicitor or the title deeds)
 - [ ] Check the SIPP nomination (expression of wish) names partner
 - [ ] Fact-checker: verify Cash ISA limit change (figure, start date), current Scottish bands, lump sum allowance
 
 - [ ] Advise: ISA is ~£32k mostly in a money market fund with a 17–22 year horizon — review allocation once the situation file is complete
 
 - [ ] QUICK WIN: move the £65k renovation fund from ~1.5% to a better easy-access or notice account (or similar); check the interest tax position (savings allowance; joint interest is split 50/50) — fact-checker to verify current rates and allowance
+
+- [ ] Check both life policies: amount, term, single or joint, in trust? Compare with the £134k mortgage and future children
+- [ ] Before a baby: review income protection, life cover amount, NHS maternity/paternity/shared leave pay, and the budget
 
 ## Yearly money calendar
 Dates below are fixed rules; check figures each year.
