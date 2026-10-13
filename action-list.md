@@ -7,7 +7,7 @@ Maintained by the lead advisor and progress-tracker. Tick off when done; move do
 - [ ] Check payslip tax code starts with S (Scottish taxpayer)
 - [ ] Find out own Scottish income tax band (Learn topic 1)
 - [ ] Find latest NHS Pension Total Reward Statement and note the figures in `my-situation.md`
-- [ ] Note mortgage fixed-rate end date in `my-situation.md`
+- [ ] Remortgage review before the fix ends (~April 2031; start about 6 months before)
 - [ ] Check pension nomination (expression of wish) is up to date
 - [ ] Fact-checker: verify Cash ISA limit change (figure, start date), current Scottish bands, lump sum allowance
 

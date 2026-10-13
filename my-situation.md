@@ -32,7 +32,11 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 - Other (Premium Bonds, LISA, crypto, shares): UNKNOWN
 
 ## Home and debt
-- Mortgage: £650/month. Balance, rate, fixed until, term left: UNKNOWN
+- House: inherited 75% of it; remortgaged and used the funds to buy the remaining 25%. Being renovated; not yet lived in
+- Value: ~£130,000 now (lender's estimate, before renovation). Value after renovation: UNKNOWN
+- Mortgage: ~£134,000, started April 2026, **5-year fix at 4.31% until ~April 2031**, £673/month. Payment implies a ~29–30 year term (estimate; actual term UNKNOWN). Joint or sole name: UNKNOWN. Overpayment allowance and early repayment charges: UNKNOWN
+- Loan-to-value now is about 100% on the pre-renovation estimate; should fall as the renovation adds value
+- Renovation fund: ~£65,000 available. Where held, and whether separate from the £32k ISA: UNKNOWN. Move-in date: UNKNOWN
 - Other debts: UNKNOWN
 
 ## Protection
@@ -42,7 +46,7 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 - Power of attorney: UNKNOWN
 
 ## Spending
-- Now: mortgage £650/month is the only fixed cost (living with parents during the renovation)
+- Now: mortgage £673/month is the only fixed cost (living with parents during the renovation)
 - Rest of take-home goes on day-to-day spending and trips; a small balance is slowly building in the current account
 - After moving in: spending will rise (council tax, energy, food, insurance, maintenance). Estimate: UNKNOWN
 
