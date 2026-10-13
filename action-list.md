@@ -13,7 +13,6 @@ Maintained by the lead advisor and progress-tracker. Tick off when done; move do
 - [ ] Fact-checker: verify Cash ISA limit change (figure, start date), current Scottish bands, lump sum allowance
 
 
-- [ ] QUICK WIN: move the £65k renovation fund from ~1.5% to a better easy-access or notice account (or similar); check the interest tax position (savings allowance; joint interest is split 50/50) — fact-checker to verify current rates and allowance
 
 - [ ] Check both life policies: amount, term, single or joint, in trust? Compare with the £134k mortgage and future children
 - [ ] Before a baby: review income protection, life cover amount, NHS maternity/paternity/shared leave pay, and the budget
@@ -21,7 +20,7 @@ Maintained by the lead advisor and progress-tracker. Tick off when done; move do
 - [ ] Partner: consider income protection (self-employed, no sick pay) and check her maternity entitlement as self-employed (Maternity Allowance — verify)
 - [ ] ISA plan (see advice/2026-10-isa-and-early-retirement.md): keep ~£5k MMF; move ~£27k into FWRA (GBP line) in ~6 monthly chunks; one FWRA buy a month with the £650
 - [ ] Check the IBKR ISA fee page: per-trade commission, monthly minimum, FX — confirm the ~£3 figures
-- [ ] Stop the weekly SGLN buy (fees ~5% per trade on IBKR); top up gold 1–2× a year, only if under the 5–10% cap
+- [ ] Stop the weekly SGLN buy (each trade ~£3 on IBKR, ~5% on one share). Once a year: if gold < 5% of the ISA, top up to 5% in one trade; if above 10%, stop buying
 - [ ] Write the crash rule into decisions-log.md
 - [ ] Get Total Reward Statement from SPPA (pensions.gov.scot) and update my-situation.md
 - [ ] Ask SIPP provider whether it has a protected pension age of 55
@@ -39,4 +38,5 @@ Dates below are fixed rules; check figures each year.
 - **Annual review** (pick a month): run a Review session (see START-HERE.md)
 
 ## Done
+- [x] Decided: keep the £65k renovation fund where it is, as it's being drawn down for the work (2026-10-13)
 - [x] NHS pension nomination for partner (done before 2026-10-13)
