@@ -48,7 +48,7 @@ Last updated: 2026-10-13 (first fact-find complete)
 
 ## Protection
 - NHS sick pay and death-in-service: yes; 10 years' service, so likely at the top sick pay entitlement (verify)
-- Life insurance: owner and partner each have death-only cover (amount and term vs the mortgage: owner checking the documents)
+- Life insurance: owner and partner each have death-only cover — owner is almost certain it's adequate and in place; treated as OK (not checked against the documents)
 - Income protection / critical illness: none
 - Will (Scottish): **none yet**. Wishes: everything to the partner; if both die, to any children
 - Power of attorney: UNKNOWN

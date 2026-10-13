@@ -10,7 +10,7 @@ Maintained by the lead advisor and progress-tracker. Tick off when done; move do
 - [ ] Remortgage review before the fix ends (~April 2031; start about 6 months before)
 - [ ] **HIGH PRIORITY: wills for both** (see advice/2026-10-wills-and-estate.md). Book a Scottish solicitor or Will Aid (November)
 - [ ] Order the house title sheet from Registers of Scotland (ScotLIS, ~£3 + VAT): check shares and survivorship destination
-- [ ] Put both life policies in trust
+- [ ] Put both life policies in trust (if not already — owner believes cover is in place)
 - [ ] Powers of attorney (continuing + welfare) for both
 - [ ] Optional: cohabitation agreement (inherited 75% share, £65k fund)
 - [ ] SIPP expressions of wish: owner names partner; partner names owner
@@ -18,7 +18,6 @@ Maintained by the lead advisor and progress-tracker. Tick off when done; move do
 
 
 
-- [ ] Check both life policies: amount, term, single or joint, in trust? Compare with the £134k mortgage and future children
 - [ ] Before a baby: review income protection, life cover amount, NHS maternity/paternity/shared leave pay, and the budget
 
 - [ ] Partner: consider income protection (self-employed, no sick pay) and check her maternity entitlement as self-employed (Maternity Allowance — verify)
