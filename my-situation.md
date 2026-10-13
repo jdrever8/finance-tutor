@@ -11,13 +11,14 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 - Health: UNKNOWN (only record if relevant to insurance or retirement)
 
 ## Income
-- Employment: NHS, full time
-- Salary band: UNKNOWN — and own income tax band not yet known (check payslip)
+- Employment: NHS, full time, since 2016, no breaks (~10 years' service in 2026)
+- Salary: ~£40,000. Scottish tax band probably intermediate (21%) — UNVERIFIED, check current-year bands
 - Tax code: check it starts with S
 - Other income: UNKNOWN
 
 ## Pensions
-- NHS Pension Scheme, 2015 scheme (check for any 1995/2008 membership): UNKNOWN
+- NHS Pension Scheme: 2015 scheme only (joined 2016, after 1995/2008 sections closed to new joiners)
+- Rough accrual: ~£740/yr of pension per year at £40k (1/54th), before revaluation — estimate only
 - Latest Total Reward Statement figure: UNKNOWN
 - Other pensions (old workplace pots, SIPP): UNKNOWN
 - State Pension forecast: NOT CHECKED (action)
@@ -35,7 +36,7 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 - Other debts: UNKNOWN
 
 ## Protection
-- NHS sick pay and death-in-service: yes (entitlement depends on service length)
+- NHS sick pay and death-in-service: yes; 10 years' service, so likely at the top sick pay entitlement (verify)
 - Income protection / life / critical illness cover: UNKNOWN
 - Will (Scottish): UNKNOWN
 - Power of attorney: UNKNOWN
