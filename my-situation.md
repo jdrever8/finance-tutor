@@ -34,9 +34,9 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 ## Home and debt
 - House: inherited 75% of it; remortgaged and used the funds to buy the remaining 25%. Being renovated; not yet lived in
 - Value: ~£130,000 now (lender's estimate, before renovation). Value after renovation: UNKNOWN
-- Mortgage: ~£134,000, started April 2026, **5-year fix at 4.31% until ~April 2031**, £673/month. Payment implies a ~29–30 year term (estimate; actual term UNKNOWN). Joint or sole name: UNKNOWN. Overpayment allowance and early repayment charges: UNKNOWN
+- Mortgage: ~£134,000, started April 2026, **5-year fix at 4.31% until ~April 2031**, £673/month. Payment implies a ~29–30 year term (estimate; actual term UNKNOWN). Joint names with partner. Owner knows the overpayment allowance (exact limit to note)
 - Loan-to-value now is about 100% on the pre-renovation estimate; should fall as the renovation adds value
-- Renovation fund: ~£65,000 available. Where held, and whether separate from the £32k ISA: UNKNOWN. Move-in date: UNKNOWN
+- Renovation fund: ~£65,000 in a joint account earning ~1.5%, separate from the ISA. Target move-in: first half of 2027
 - Other debts: UNKNOWN
 
 ## Protection

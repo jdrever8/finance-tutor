@@ -13,6 +13,8 @@ Maintained by the lead advisor and progress-tracker. Tick off when done; move do
 
 - [ ] Advise: ISA is ~£32k mostly in a money market fund with a 17–22 year horizon — review allocation once the situation file is complete
 
+- [ ] QUICK WIN: move the £65k renovation fund from ~1.5% to a better easy-access or notice account (or similar); check the interest tax position (savings allowance; joint interest is split 50/50) — fact-checker to verify current rates and allowance
+
 ## Yearly money calendar
 Dates below are fixed rules; check figures each year.
 - **Before 5 April** (tax year end): use ISA allowance if planned, review pension contributions, use CGT annual exempt amount if relevant
