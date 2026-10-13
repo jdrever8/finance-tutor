@@ -39,7 +39,7 @@ Last updated: 2026-10-13 (first fact-find complete)
 - Other (Premium Bonds, LISA, crypto, shares): UNKNOWN
 
 ## Home and debt
-- House: inherited 75% of it; remortgaged and used the funds to buy the remaining 25%. Being renovated; not yet lived in
+- House: title in **both names** (survivorship clause: UNKNOWN). Owner inherited 75% of it; remortgaged and used the funds to buy the remaining 25%. Being renovated; not yet lived in
 - Value: ~£130,000 now (lender's estimate, before renovation). Value after renovation: UNKNOWN
 - Mortgage: ~£134,000, started April 2026, **5-year fix at 4.31% until ~April 2031**, £673/month. Payment implies a ~29–30 year term (estimate; actual term UNKNOWN). Joint names with partner. Owner knows the overpayment allowance (exact limit to note)
 - Loan-to-value now is about 100% on the pre-renovation estimate; should fall as the renovation adds value
@@ -50,7 +50,7 @@ Last updated: 2026-10-13 (first fact-find complete)
 - NHS sick pay and death-in-service: yes; 10 years' service, so likely at the top sick pay entitlement (verify)
 - Life insurance: owner and partner each have death-only cover (amount and term vs the mortgage: owner checking the documents)
 - Income protection / critical illness: none
-- Will (Scottish): **none yet**
+- Will (Scottish): **none yet**. Wishes: everything to the partner; if both die, to any children
 - Power of attorney: UNKNOWN
 
 ## Spending
