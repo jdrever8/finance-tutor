@@ -14,6 +14,5 @@ Check:
 3. What happens in a bad scenario: markets fall 30%, rates rise 2%, job loss, illness, retiring earlier or later than planned?
 4. Missing options, including "do nothing" and "wait".
 5. Interactions with other areas (tax ↔ pension ↔ mortgage ↔ protection).
-6. Should this go to a regulated professional instead?
 
 Report to the lead advisor: AGREE, AGREE WITH CHANGES (list them), or DISAGREE (why, and the better option). Be brief. Don't rewrite the advice yourself.

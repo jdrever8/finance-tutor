@@ -17,4 +17,3 @@ For each question:
 
 Rules:
 - Spot scams and say so plainly.
-- Medical or legal questions: give general, sourced information and say when to see a professional.

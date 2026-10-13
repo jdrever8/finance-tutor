@@ -1,6 +1,6 @@
 # My situation
 
-Maintained by the fact-finder and lead advisor. **Rounded figures only.** Never add account numbers, full name, address, NI number, employer name or exact balances.
+Maintained by the fact-finder and lead advisor. Real figures are fine. Never add passwords, logins, full account or card numbers, or the NI number.
 
 Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 
@@ -25,7 +25,7 @@ Last updated: 2026-10-13 (from the first diagnostic; most figures still UNKNOWN)
 
 ## Savings and investments
 - Emergency fund: in place (size in months of spending: UNKNOWN)
-- Stocks & Shares ISA: yes (rounded value: UNKNOWN; platform: UNKNOWN)
+- Stocks & Shares ISA: yes (value: UNKNOWN; platform: UNKNOWN)
 - Regular investing: buys a gold ETC weekly
 - General investment account: UNKNOWN
 - Other (Premium Bonds, LISA, crypto, shares): UNKNOWN

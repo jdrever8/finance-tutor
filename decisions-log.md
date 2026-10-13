@@ -7,12 +7,11 @@ Template:
 ```
 ## YYYY-MM-DD — <decision in a few words>
 - Question:
-- Situation used: (rounded; link to my-situation.md)
+- Situation used: (link to my-situation.md)
 - Options considered:
 - Recommendation and why:
 - Figures and tax year: (CHECKED by fact-checker? yes/no)
 - Second opinion: AGREE / AGREE WITH CHANGES / DISAGREE / not needed
-- Professional referral: none / <who and why>
 - Owner's decision:
 - Review by:
 ```
